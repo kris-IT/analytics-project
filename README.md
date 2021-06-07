@@ -10,3 +10,5 @@
 
 ### Где найти результаты исследования?
 Результаты данного исследования доступны в файле analytics project.md
+https://github.com/kris-IT/analytics-project/blob/main/analytics%20project.md
+
